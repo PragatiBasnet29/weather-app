@@ -80,8 +80,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 - Weather data provided by OpenWeather API
 - City data provided by GeoDB Cities API
-- Icons from [source of your icons]
-- Inspiration from [mention any inspirations]
+- Inspiration from [[Sangammukherjee](https://github.com/sangammukherjee)]
 
 ## Contact 📧
 
