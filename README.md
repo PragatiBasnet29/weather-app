@@ -91,5 +91,5 @@ Project Link: [https://github.com/yourusername/weather-app](https://github.com/y
 
 ## Screenshots 📸
 
-[Add screenshots of your app here]
-
+![weather app](./publi
+<img src="./public/weather.png" width="500" alt="Weather App"/>
