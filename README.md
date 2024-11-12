@@ -85,9 +85,9 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact 📧
 
-Your Name - [your email]
+Your Name - Pragati Basnet
 
-Project Link: [https://github.com/yourusername/weather-app](https://github.com/yourusername/weather-app)
+Project Link: [https://github.com/PragatiBasnet29/weather-app](https://github.com/PragatiBasnet29/weather-app)
 
 ## Screenshots 📸
 
